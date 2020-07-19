@@ -19,8 +19,7 @@ I code for FUN in any language including
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### **Connect with me** on 
-Twitter for exciting updates, Linkedin for opportunities and IG for fun:
+**Connect with me** on Twitter for exciting updates, Linkedin for opportunities and IG for fun:
 
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo)](https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo) 
 [![Twitter Badge](http://img.shields.io/badge/-@vanshika_garg17-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/vanshika_garg17)](https://twitter.com/vanshika_garg17) 
