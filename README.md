@@ -4,8 +4,9 @@ This is Vanshika Garg. I am a Student Developer at Crio.do and SDE Intern at CRI
 
 I am also the part of various tech communities including Tesseract Coding, Code for Cause, GirlScript Foundation, Utkarshini Edutech, Coding Ninjas and Henry Harvin Education. 
 
-I code for FUN in any language including   | Python | C/C++ | JAVA | Kotlin |
-                                            | :---: | :---: | :---: | :---: | 
+I code for FUN in any language including   
+| Python | C/C++ | JAVA | Kotlin |
+ | :---: | :---: | :---: | :---: | 
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
