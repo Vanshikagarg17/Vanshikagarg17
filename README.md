@@ -8,7 +8,7 @@ I code for FUN in any language including
 | Python | C/C++ | JAVA | Kotlin |
  | :---: | :---: | :---: | :---: | 
 
-### Technologies & Frameworks I have worked with : 
+##### Technologies & Frameworks I have worked with : 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -19,7 +19,7 @@ I code for FUN in any language including
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**Connect with me** on 
+### **Connect with me** on 
 Twitter for exciting updates, Linkedin for opportunities and IG for fun:
 
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo)](https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo) 
