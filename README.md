@@ -26,3 +26,8 @@ Twitter for exciting updates, Linkedin for opportunities and IG for fun:
 [![Twitter Badge](http://img.shields.io/badge/-@vanshika_garg17-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/vanshika_garg17)](https://twitter.com/vanshika_garg17) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vanshika%20Garg-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vanshika-garg-9297a3188/)](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
 [![Instagram Badge](https://img.shields.io/badge/vanshikaaaaa_-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo) 
+
+- 💬 Ask me about anything, I am happy to help anytime!
+- Active participant in Hackathons & CTFs
+- Open Source enthusiast
+- 📫 How to reach me: vanshikagarg17@gmail.com
