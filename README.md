@@ -2,7 +2,7 @@
 
 This is Vanshika Garg. I am a Student Developer at Crio.do and SDE Intern at CRIS - IT WING of Indian Railways.
 
-I am also the part of various tech communities including Tesseract Coding, Code for Cause, GirlScript Foundation, Utkarshini Edutech, Coding Ninjas and Henry Harvin Education. 
+I am the Core Team Member of Tesseract Coding, Chapter Lead of GirlScript Foundation, Campus Lead at Code for Cause, Utkarshini Edutech, Coding Ninjas and Henry Harvin Education. 
 
 I code for FUN in any language including   
 | Python | C/C++ | JAVA | Kotlin |
