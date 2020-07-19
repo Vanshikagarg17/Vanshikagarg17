@@ -19,13 +19,6 @@ I code for FUN in any language including
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 💬 Ask me about anything, I am happy to help anytime!
-- Active participant in Hackathons & CTFs
-- Open Source enthusiast
-- 📫 How to reach me: vanshikagarg17@gmail.com
-
-
-
 **Connect with me** on 
 Twitter for exciting updates, Linkedin for opportunities and IG for fun:
 
@@ -33,6 +26,12 @@ Twitter for exciting updates, Linkedin for opportunities and IG for fun:
 [![Twitter Badge](http://img.shields.io/badge/-@vanshika_garg17-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/vanshika_garg17)](https://twitter.com/vanshika_garg17) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vanshika%20Garg-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vanshika-garg-9297a3188/)](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
 [![Instagram Badge](https://img.shields.io/badge/vanshikaaaaa_-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo) 
+
+
+- 💬 Ask me about anything, I am happy to help anytime!
+- Active participant in Hackathons & CTFs
+- Open Source enthusiast
+- 📫 How to reach me: vanshikagarg17@gmail.com
 
 
 **Portfolio :** https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
