@@ -19,6 +19,9 @@ I code for FUN in any language including
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+**Portfolio :** https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
+
+
 **Connect with me** on Twitter for exciting updates, Linkedin for opportunities and IG for fun:
 
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo)](https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo) 
@@ -33,8 +36,6 @@ I code for FUN in any language including
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-vanshikagarg17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshikagarg17@gmail.com)](mailto:vanshikagarg17@gmail.com)
 
-
-**Portfolio :** https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
 <a href=https://github.com/TesseractCoding>
    <img src=https://img.shields.io/badge/TesseractCoding-Contributor-brightgreen>
