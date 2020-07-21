@@ -30,7 +30,7 @@ I code for FUN in any language including
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
 - Open Source enthusiast
-- 📫 How to reach me: vanshikagarg17@gmail.com
+- 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-vanshikagarg17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshikagarg17@gmail.com)](mailto:vanshikagarg17@gmail.com)
 
 
