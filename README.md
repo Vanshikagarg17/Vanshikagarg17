@@ -44,6 +44,3 @@ I code for FUN in any language including
    <img src=https://img.shields.io/badge/CodeforCause-Contributor-blue>
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vanshikagarg17" alt="Vanshikagarg17" /> </p>
-
-![](https://github-readme-stats.vercel.app/api?username=Vanshikagarg17&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
