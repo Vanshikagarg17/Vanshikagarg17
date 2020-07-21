@@ -31,6 +31,7 @@ I code for FUN in any language including
 - Active participant in Hackathons & CTFs
 - Open Source enthusiast
 - 📫 How to reach me: vanshikagarg17@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-vanshikagarg17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshikagarg17@gmail.com)](mailto:vanshikagarg17@gmail.com)
 
 
 **Portfolio :** https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
