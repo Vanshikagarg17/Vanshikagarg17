@@ -33,7 +33,6 @@ I code for FUN in any language including
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
 - Open Source enthusiast
-<br>
 
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshikagarg17@gmail.com)](mailto:vanshikagarg17@gmail.com)
 vanshikagarg17@gmail.com
