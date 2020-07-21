@@ -38,7 +38,6 @@ I code for FUN in any language including
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshikagarg17@gmail.com)](mailto:vanshikagarg17@gmail.com)
 vanshikagarg17@gmail.com
 
-[![Gmail Badge](https://img.shields.io/badge/-vanshikagarg17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshikagarg17@gmail.com)](mailto:vanshikagarg17@gmail.com)
 
 <a href=https://github.com/TesseractCoding>
    <img src=https://img.shields.io/badge/TesseractCoding-Contributor-brightgreen>
