@@ -19,7 +19,7 @@ I code for FUN in any language including
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-**Portfolio :** https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
+## **Portfolio :** https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
 
 **Connect with me** on Twitter for exciting updates, Linkedin for opportunities and IG for fun:
