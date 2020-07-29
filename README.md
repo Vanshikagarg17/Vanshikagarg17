@@ -18,11 +18,12 @@ I code for FUN in any language including
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-### **Portfolio :** https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
+### Portfolio : 
+https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
 
 
-### If you're reading this, connect with me here:  
+#### If you're reading this, connect with me here:  
 
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo)](https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo) 
 [![Twitter Badge](http://img.shields.io/badge/-@vanshika_garg17-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/vanshika_garg17)](https://twitter.com/vanshika_garg17) 
