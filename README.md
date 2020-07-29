@@ -40,4 +40,7 @@ I code for FUN in any language including
 <a href=https://github.com/codeforcauseorg>
    <img src=https://img.shields.io/badge/CodeforCause-Contributor-blue>
 </a>
+<a href=https://github.com/girlscriptindia>
+   <img src=https://img.shields.io/badge/GirlScriptFoundation-Contributor-orange>
+</a>
 
