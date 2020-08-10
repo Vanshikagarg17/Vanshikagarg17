@@ -21,10 +21,13 @@ I code for FUN in any language including
 ### Portfolio : 
 https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
+On weekends I do stand up comedy on Twitter
+
  <a href="https://twitter.com/vanshika_garg17?lang=en">
     <img align="left" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
+<br>
 
 ### Connect with me here:  
 
