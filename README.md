@@ -34,7 +34,7 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
 <br>
 
-
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vanshika%20Garg-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vanshika-garg-9297a3188/)](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
 [![Instagram Badge](https://img.shields.io/badge/vanshikaaaaa_-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo) 
