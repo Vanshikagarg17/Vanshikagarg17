@@ -30,7 +30,7 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 </a> 
 
 
-<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="30" width="30" /></a>      [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
+<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="30" width="30" /></a>     [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" height="4.0%"/>](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
 
 <br>
 
