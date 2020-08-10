@@ -21,7 +21,11 @@ I code for FUN in any language including
 ### Portfolio : 
 https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
-On weekends I do stand up comedy on Twitter
+
+
+### Connect with me here:  
+
+
 
  <a href="https://twitter.com/vanshika_garg17?lang=en">
     <img align="left" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
@@ -29,7 +33,6 @@ On weekends I do stand up comedy on Twitter
 
 <br>
 
-### Connect with me here:  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vanshika%20Garg-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vanshika-garg-9297a3188/)](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
 [![Instagram Badge](https://img.shields.io/badge/vanshikaaaaa_-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo) 
