@@ -25,8 +25,6 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
 ### Connect with me here:  
 
-<a title="Twitter Profile" href="https://twitter.com/vanshika_garg17"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a>
-
  <a href="https://twitter.com/vanshika_garg17?lang=en">
     <img align="left" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
