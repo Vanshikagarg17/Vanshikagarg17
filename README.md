@@ -26,12 +26,14 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 ### Connect with me here:  
 
  <a href="https://twitter.com/vanshika_garg17?lang=en">
-    <img align="center" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
-<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="30" width="30" /></a>
+
+<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="30" width="30" /></a>
 
 <br>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vanshika%20Garg-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vanshika-garg-9297a3188/)](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
