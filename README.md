@@ -21,19 +21,16 @@ I code for FUN in any language including
 ### Portfolio : 
 https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
-
-
-### Connect with me here:  
-
  <a href="https://twitter.com/vanshika_garg17?lang=en">
     <img align="left" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
 
-<a>
+### Connect with me here:  
+
 [![Linkedin Badge](https://img.shields.io/badge/-Vanshika%20Garg-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vanshika-garg-9297a3188/)](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
 [![Instagram Badge](https://img.shields.io/badge/vanshikaaaaa_-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo) 
-</a>
+
 
 
 - 💬 Ask me about anything, I am happy to help anytime!
