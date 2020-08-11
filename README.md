@@ -37,16 +37,7 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
     <img align="left" alt="vanshikaaaaa_ | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
 
-
-
-<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="30" width="30" /></a>     
-
-[<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.0%" height="3.5%"/>](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
-
-<br>
-
-[![Instagram Badge](https://img.shields.io/badge/vanshikaaaaa_-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo) 
-
+<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="25" width="25" /></a>     
 
 
 - 💬 Ask me about anything, I am happy to help anytime!
