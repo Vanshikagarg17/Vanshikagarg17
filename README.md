@@ -25,12 +25,23 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
 ### Connect with me here:  
 
- <a href="https://twitter.com/vanshika_garg17?lang=en">
+
+<a href="https://www.linkedin.com/in/vanshika-garg-9297a3188/">
+    <img align="left" alt="Vanshika Garg | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+   <a href="https://twitter.com/vanshika_garg17?lang=en">
     <img align="left" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
+  <a href="https://instagram.com/vanshikaaaaa_">
+    <img align="left" alt="vanshikaaaaa_ | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
 
-<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="30" width="30" /></a>     [<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.0%" height="3.5%"/>](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
+
+
+<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="30" width="30" /></a>     
+
+[<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.0%" height="3.5%"/>](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
 
 <br>
 
