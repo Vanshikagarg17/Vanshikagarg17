@@ -26,7 +26,7 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 ### Connect with me here:  
 
 
-<a href="https://www.linkedin.com/in/vanshika-garg-9297a3188/">
+<a href="https://www.linkedin.com/in/vanshikagarg17/">
     <img align="left" alt="Vanshika Garg | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
    <a href="https://twitter.com/vanshika_garg17?lang=en">
