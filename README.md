@@ -4,12 +4,6 @@ I code for FUN in any language including
 | Python | C/C++ | JAVA | Kotlin |
  | :---: | :---: | :---: | :---: | 
  
- 
- ## Tech Stack
-
-| Ethereum | Solidity | Node.js | Matic Network | Flutter(Dart) | Twilio/Nexmo |
- | :---: | :---: | :---: | :---: | :---: | :---: | 
- 
 
 ### Technologies & Frameworks I have worked with : 
 
