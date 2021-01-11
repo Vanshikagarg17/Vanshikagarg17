@@ -1,4 +1,4 @@
-### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
+### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
 I code for FUN in any language including   
 | Python | C/C++ | JAVA | Kotlin |
@@ -49,7 +49,7 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 - Active participant in Hackathons & CTFs
 - Open Source enthusiast
 
-## :rainbow: Have a good day! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## :rainbow: Have a good day!
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Vanshikagarg17 alt=Vanshikagarg17/></p>
 
 <a href=https://github.com/TesseractCoding>
