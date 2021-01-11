@@ -49,6 +49,9 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 - Active participant in Hackathons & CTFs
 - Open Source enthusiast
 
+## :rainbow: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Vanshikagarg17 alt=Vanshikagarg17/></p>
+
 <a href=https://github.com/TesseractCoding>
    <img src=https://img.shields.io/badge/TesseractCoding-Contributor-brightgreen>
 </a>
