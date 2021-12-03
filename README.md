@@ -45,7 +45,7 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 
 
 
-- 💬 Ask me about anything, I am happy to help anytime!
+- 💬 Happy to help anytime!
 - Active participant in Hackathons & CTFs
 - Open Source enthusiast
 
