@@ -1,4 +1,4 @@
-### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3px">
+### Hi everyone!
 
 I code for FUN in any language including   
 | Python | C/C++ | JAVA | Kotlin |
