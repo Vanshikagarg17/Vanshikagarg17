@@ -2,7 +2,7 @@
 
 ### Technologies & Frameworks I have worked with:
 | Python | C/C++ | JAVA | Power BI | Tableau |  
- | :---: | :---: | :---: | :---: | :---: | :---: | 
+ | :---: | :---: | :---: | :-----: | :-----: | 
 
 
 ### Portfolio : 
