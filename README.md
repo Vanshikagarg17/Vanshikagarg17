@@ -26,22 +26,21 @@ https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17
 ### Connect with me here:  
 
 
+<a href="https://twitter.com/vanshika_garg17">
+  <img align="left" alt="Vanshika's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://www.linkedin.com/in/vanshikagarg17/">
-    <img align="left" alt="Vanshika Garg | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-   <a href="https://twitter.com/vanshika_garg17?lang=en">
-    <img align="left" alt="Vanshika Garg | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a> 
+  <img align="left" alt="Vanshika's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Vanshikagarg17">
+  <img align="left" alt="Vanshika's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/vanshikaaaaa_/">
+  <img align="left" alt="Vanshika's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-  <a href="https://instagram.com/vanshikaaaaa_">
-    <img align="left" alt="vanshikaaaaa_ | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-
-<a href="https://medium.com/@vanshikagarg17" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vanshikagarg17" height="25" width="25" /></a>     
-
-<br>
-<br>
-
+<br/>
+<br/>
 
 
 
